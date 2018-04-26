@@ -1,0 +1,16 @@
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\JeremyCards\obj\Debug\JeremyCards.csprojResolveAssemblyReference.cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\JeremyCards\obj\Debug\JeremyCards.csproj.GenerateResource.Cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\JeremyCards\bin\Debug\JeremyCards.dll
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\JeremyCards\bin\Debug\JeremyCards.pdb
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\JeremyCards\obj\Debug\JeremyCards.Properties.Resources.resources
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\JeremyCards\obj\Debug\JeremyCards.csproj.CoreCompileInputs.cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\JeremyCards\obj\Debug\JeremyCards.dll
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\JeremyCards\obj\Debug\JeremyCards.pdb
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\JeremyCards\bin\Debug\JeremyCards.dll
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\JeremyCards\bin\Debug\JeremyCards.pdb
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\JeremyCards\obj\Debug\JeremyCards.csprojResolveAssemblyReference.cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\JeremyCards\obj\Debug\JeremyCards.Properties.Resources.resources
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\JeremyCards\obj\Debug\JeremyCards.csproj.GenerateResource.cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\JeremyCards\obj\Debug\JeremyCards.csproj.CoreCompileInputs.cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\JeremyCards\obj\Debug\JeremyCards.dll
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\JeremyCards\obj\Debug\JeremyCards.pdb

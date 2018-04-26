@@ -1,0 +1,21 @@
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\CardBox\bin\Debug\CardBox.dll
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\CardBox\bin\Debug\CardBox.pdb
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\CardBox\obj\Debug\CardBox.csproj.CoreCompileInputs.cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\CardBox\obj\Debug\CardBox.dll
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\CardBox\obj\Debug\CardBox.pdb
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\CardBox\obj\Debug\CardBox.CardBox.resources
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\CardBox\bin\Debug\JeremyCards.dll
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\JeremyCards\CardBox\bin\Debug\JeremyCards.pdb
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\CardBox\bin\Debug\CardBox.dll
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\CardBox\bin\Debug\CardBox.pdb
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\CardBox\bin\Debug\JeremyCards.dll
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\CardBox\bin\Debug\JeremyCards.pdb
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\CardBox\obj\Debug\CardBox.CardBox.resources
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\CardBox\obj\Debug\CardBox.csproj.CoreCompileInputs.cache
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\CardBox\obj\Debug\CardBox.dll
+D:\Users\Jeremy\OneDrive - Durham College\Winter Year 2\OOP\OOP Final\Durak-Final-Project\DurakFinal\CardBox\obj\Debug\CardBox.pdb
